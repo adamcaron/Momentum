@@ -232,7 +232,8 @@ i { font-style: normal; }
 
 		#focuses .prompt { margin-bottom: 14px; }
 			#focuses .prompt h3 { font-weight: normal; }
-			#focuses .prompt input { width: 13.8em; border-bottom-width: 2px; -webkit-transition: border-color .2s ease;  }
+			/*#focuses .prompt input { width: 13.8em; border-bottom-width: 2px; -webkit-transition: border-color .2s ease;  }*/
+			#focuses .prompt input { width: 13.8em; border-bottom-width: 0px; -webkit-transition: border-color .2s ease;  }
 
 		#focuses .focus h3 { margin-top: 17px; font-size: 75%; line-height: 120%; text-transform: uppercase; }
 		#focuses .focus p { position: relative; }
