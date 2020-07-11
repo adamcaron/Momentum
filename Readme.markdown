@@ -1,6 +1,12 @@
 # Momentum customized.
 
+Remove the clock and the clutter, and everything but the quote so the nice picture is all you see.
+
+How? 
+
 In the `manifest.json`, the loaded `.html` file is specified.
+
+Clone this repo into home then, follow the instructions:
 
 ## To load into chrome
 
