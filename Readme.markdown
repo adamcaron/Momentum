@@ -5,8 +5,6 @@
 2. A quote
 3. That's it.
 
-Remove the clock and the clutter, and everything but the quote so the nice picture is all you see. 
-
 ## How? 
 
 In the `manifest.json`, the loaded `.html` file is specified.
@@ -31,3 +29,7 @@ To this...
 ![Clean, Happy Image](clean_momentum.png)
 
 Oh sweet blissful clarity
+
+## More info
+
+The image and the quote still change every day as expected. 
