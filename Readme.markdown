@@ -1,11 +1,11 @@
 # Momentum customized.
 
-Remove the clock and the clutter, and everything but the quote so the nice picture is all you see. See [below](#how-it-looks) for how it looks.
-
 [Momentum Dashboard](https://momentumdash.com/) for Chrome turns your new tab windows into stunning photos. The problem is they blanket the image with all sorts of text and clutter, and unnecessary links and widgets. This repo has instructions to replace Momentum's extension with a stripped-down extension that renders only:
 1. The beautiful image
 2. A quote
 3. That's it.
+
+Remove the clock and the clutter, and everything but the quote so the nice picture is all you see. 
 
 ## How? 
 
